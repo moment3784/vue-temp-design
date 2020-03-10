@@ -21,6 +21,9 @@
   margin: 0 auto;
   margin-right: 20px;
 }
+.layout-footer-center{
+    text-align: center;
+}
 </style>
 <template>
   <div class="layout">
